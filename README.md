@@ -1,4 +1,6 @@
-# RSNAPSHOT [![Build Status](https://api.travis-ci.org/rsnapshot/rsnapshot.png?branch=master)](https://travis-ci.org/rsnapshot/rsnapshot)
+# RSNAPSHOT
+[![Tests](https://github.com/rsnapshot/rsnapshot/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/rsnapshot/rsnapshot/actions/workflows/test.yml)
+[![Publish](https://github.com/rsnapshot/rsnapshot/actions/workflows/publish.yml/badge.svg?branch=master)](https://github.com/rsnapshot/rsnapshot/actions/workflows/publish.yml)
 
 rsnapshot comes with ABSOLUTELY NO WARRANTY.  This is free software,
 and you are welcome to redistribute it under certain conditions.
